@@ -1,1 +1,3 @@
-# MyProject1
+# MyProject
+
+Simple Python project with CI/CD
